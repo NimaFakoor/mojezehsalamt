@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938440615558",
+    "firebase_url": "https://mojezehsalamt.firebaseio.com",
+    "project_id": "mojezehsalamt",
+    "storage_bucket": "mojezehsalamt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938440615558:android:7c39b20653a5479e",
+        "android_client_info": {
+          "package_name": "com.app.mojezehsalamt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938440615558-jair53m2go66kac63i5n3m5rjq88vbg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZrxI5M309q0ul_gJQEEhdqSHydmFetb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938440615558-jair53m2go66kac63i5n3m5rjq88vbg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

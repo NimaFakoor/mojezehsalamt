@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">معجزه سلامت</string>
+
+    <!--tab title-->
+    <string name="tab_recent">تازه ها</string>
+    <string name="tab_category">دسته بندی</string>
+    <!--<string name="tab_category">معجزه سلامت</string>-->
+    <string name="tab_favorite">علاقمندی ها</string>
+
+    <!--about information-->
+    <string name="app_version">نسخه 1.2.0</string>
+    <string name="app_email">mojezehsallamati2020@gmail.com</string>
+    <string name="app_copyright">کپی رایت &#169; 1397 گروه برنامه نویسی مارال \n تمام حقوق محفوض می باشد.</string>
+    <string name="share_summary">اشتراک گذاری برای دوستان</string>
+    <string name="rate_summary">امتیاز دهی و ارسال بازخورد</string>
+    <string name="more_summary">برنامه های دیگر توسعه دهنده</string>
+    <string name="title_app_name">نام برنامه</string>
+    <string name="title_app_version">شماره ساخت</string>
+    <string name="title_app_email">ایمیل</string>
+    <string name="title_app_copyright">کپی رایت</string>
+    <string name="title_app_share">اشتراک گذاری</string>
+    <string name="title_app_rate">امتیاز</string>
+    <string name="title_app_more">بیشتر</string>
+
+    <!--admob banner and interstitial id-->
+    <string name="admob_publisher_id">pub-1932108037271075</string>
+    <string name="admob_banner_id">ca-app-pub-1932108037271075/7829296785</string>
+    <string name="admob_interstitial_id">ca-app-pub-1932108037271075/7829296785</string>
+
+    <!-- play store application link i.e more apps -->
+    <string name="play_more_apps">https://cafebazaar.ir/developer/maralgroup/</string>
+    <string name="privacy_policy_url">https://www.privacypolicies.com/privacy/view/e28bc29178f8ddac75d2ecbdb062c76a</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_new_recipes">جدید</string>
+    <string name="drawer_category">معجزه سلامت</string>
+    <string name="drawer_favorite">موارد دلخواه</string>
+    <string name="drawer_rate">امتیاز</string>
+    <string name="drawer_more">بیشتر</string>
+    <string name="drawer_share">اشتراک گذاری</string>
+    <string name="drawer_about">درباره</string>
+    <string name="drawer_sub_row">دیگر</string>
+
+    <!--network-->
+    <string name="failed_connect_network">اینترنت وصل نمی باشد.</string>
+
+    <!--exit dialog-->
+    <string name="dialog_option_yes">بله</string>
+    <string name="dialog_option_rate_us">امتیاز دهی</string>
+    <string name="dialog_option_more">برنامه های دیگر</string>
+    <string name="dialog_close_msg">آیا قصد خروج دارید؟</string>
+
+    <!--others-->
+    <string name="search_hint">جستجو&#8230;</string>
+    <string name="menu_share">اشتراک گذاری</string>
+    <string name="search">جستجو</string>
+    <string name="img_no">لیست علاقمندی ها خالی است</string>
+    <string name="favorite_added">به لیست علاقمندی ها اضافه شد.</string>
+    <string name="favorite_removed">از لیست علاقمندی ها حذف شد.</string>
+    <string name="share_text">این برنامه رو به اشتراک بگذارید.شما می توانید از کافه بازار این برنامه را دریافت کنید.</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
